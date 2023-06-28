@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Clear Instructions =>
+1 . Please open the terminal and type command git clone paste my git repo url here like this => git clone https://github.com/VaibhavShukla4/chat-app-frontend
+
+2.  type command npm install to install all the necessary npm package
+
+3.  type command npm start then start the project locally in your browser http://localhost:3000/ and then you can able to start the project
